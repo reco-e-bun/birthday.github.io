@@ -167,7 +167,7 @@
 
             ctx.moveTo(0, 0);
             ctx.scale(1.25, 1.25);
-            ctx.font = "20px,Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
+            ctx.font = "20px,Verdana";
             ctx.fillText("Click Me! ", 17, 5);
             ctx.restore();
         },
